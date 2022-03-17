@@ -4,6 +4,7 @@
     background-color: black;
     height: 100vh;
     place-items: center;
+    overflow: hidden;
 }
 
 .login > img {
